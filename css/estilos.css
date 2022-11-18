@@ -1,0 +1,165 @@
+body{
+    background-color: #D7D7D7;
+}
+
+.container{
+    height: 100vh;
+    background-color: #F9F9E2;
+    display: flex;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 0% auto;
+    max-width: 1366px;
+    max-height: 2500px;
+}
+
+.zona1{
+    display: flex;
+    background-color: #F9F9E2;
+    height: 300px;
+}
+
+
+.circulo{
+    background-color: orange;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.bloqueazul{
+    background-color: rgb(33, 119, 232);
+    width: 1050px;
+    height: 160px;
+    margin-top: 50px;
+}
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+
+
+
+.bloquenaranja{
+    background-color: orange;
+    border-radius: 100px;
+    width: 1100px;
+    height: 560px;
+}
+.zona2{
+    margin-left: -1160px;
+    position: relative;
+    margin-top: 290px;
+    display: inline-block;
+    background-color: #F9F9E2;
+    height: 300px;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+
+
+
+.zona3{
+    margin-left: -1160px;
+    position: relative;
+    margin-top: 950px;
+    display: inline-block;
+    background-color: #F9F9E2;
+    height: 300px;
+}
+
+.bloqueblanco{
+    background-color: rgb(255, 255, 255);
+    width: 1200px;
+    height: 560px;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+
+
+.zona4{
+    margin-left: -1250px;
+    display: flex;
+    background-color: #F9F9E2;
+    height: 300px;
+    margin-top: 1600px;
+}
+
+
+.circuloVerde1{
+    background-color: rgb(61, 155, 48);
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
+.bloqueVerde1{
+    background-color: rgb(133, 192, 127);
+    width: 870px;
+    height: 280px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+
+
+.zona5{
+    margin-left: -1280px;
+    display: flex;
+    background-color: #F9F9E2;
+    height: 300px;
+    margin-top: 2000px;
+}
+
+
+.circuloVerde2{
+    background-color: rgb(61, 155, 48);
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    margin-left: 70px;
+}
+
+.bloqueVerde2{
+    background-color: rgb(133, 192, 127);
+    width: 870px;
+    height: 280px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////*/
+
+
+
+.futer{
+    background-color: black;
+    margin-left: 2390px;
+    width: 1365px;
+    height: 400px;
+}
+
+.circulonaranja2{
+    background-color: orange;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+
+    margin-left: 50px;
+
+}
